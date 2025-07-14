@@ -9,11 +9,11 @@ Programa de aprendizado ABAP que Realiza a criação da Ordem de Vendas utilizan
 - Criação de Ordem De Vendas Utilizando BAPI_PO_CREATE1
 
 <div align="center">
-  <img src = "media/Tela de Seleção.PNG">
+  <img src = "media/Tela de Seleção.png">
   <p>Tela de Seleção</p>
 </div>
 
 <div align="center">
-  <img src = "media/BAPI_PO_CREATE1.PNG">
+  <img src = "media/BAPI_PO_CREATE1.png">
     <p>BAPI de criação de Ordem de Vendas</p>
 </div>
